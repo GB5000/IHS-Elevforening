@@ -8,7 +8,7 @@ theme = "spectral"
 [params]
 fancyTitle = "IHS Elevforening" # title for frontpage, may include image
 copyright = ""
-description = ''
+description = 'Elevforeningen består af tidligere IHS-elever, <br>som ønsker at bevare tilknytningen til skolen og andre tidligere IHS-elever. '
 startbuttonText = "Activate"
 startbuttonLink = "#"
 body_is_markdown = true
@@ -119,7 +119,7 @@ special = true
 
 [[params.cta.link]]
 href = "#"
-text = "Learn More"
+text = "Seneste nyt"
 special = false
 
 [params.contact]
